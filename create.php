@@ -35,6 +35,7 @@
                 <br>
                 <br>
             </form>
+<!-- this is script of data creating -->
             <?php
             include 'config.php';
             if (isset($_POST['submit'])) {
